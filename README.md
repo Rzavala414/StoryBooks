@@ -1,2 +1,2 @@
 # StoryBooks
-Make a story about anythin
+Make a story about anything
