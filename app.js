@@ -16,6 +16,7 @@ dotenv.config({path: './config/config.env' });
 // Passport config
 require('./config/passport')(passport)
 
+//Connected database
 connectDB()
 
 const app = express();
